@@ -1,3 +1,4 @@
+```
 ┌ Monad.init
 │     --
 ├ Authors    : Kang the conqueror, Terry A. Davis, Buggy D. Clown 
@@ -7,3 +8,4 @@
 
 ┌ Stack Trace : TL;DR
 └ error.log   : "Works on my machine"
+```
