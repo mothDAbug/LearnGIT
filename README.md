@@ -1,4 +1,3 @@
-```plaintext
 ┌ Monad.init
 │     --
 ├ Authors    : Kang the conqueror, Terry A. Davis, Buggy D. Clown 
