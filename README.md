@@ -1,10 +1,13 @@
-```
-┌ Monad.init
-│     --
-├ Authors    : Kang the conqueror, Terry A. Davis, Buggy D. Clown 
-└ sys.config :
-  ├ OS  (preferably) >> Temple OS 
-  └ CPU (probably)   >> faster than your avg Toaster
+# LearnGIT 🐙🚀
 
-┌ Stack Trace : TL;DR
-└ error.log   : "Works on my machine"
+Welcome to **LearnGIT**, a beginner-friendly repository to practice and master Git! 🎉  
+
+## 📌 What's Inside?  
+- `Hello.py` – Your first test file for Git commits.  
+- A step-by-step Git workflow.  
+- More experiments coming soon!  
+
+## 🚀 Quick Git Commands  
+1️⃣ Clone the repo:  
+   ```bash
+   git clone https://github.com/mothDAbug/LearnGIT.git
